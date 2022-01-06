@@ -1,0 +1,388 @@
+{
+  "data": [
+    {
+      "category": "Business",
+      "content": [
+        {
+          "title": "Omicron and the Office: Your Questions, Answered",
+          "description": "We cover how the pandemic has affected the workplace. Here's what we are hearing.",
+          "img_url": "https://static01.nyt.com/images/2022/01/05/business/05RTO-burst-01/05RTO-burst-01-thumbWide-v3.jpg?quality=75&auto=webp&disable=upscale",
+          "author": "Emma Goldberg and Lauren Hirsch"
+        },
+        {
+          "title": "How Corporate America Has Changed After the Capitol Attack",
+          "description": "Business leaders promised a reckoning after the Jan. 6 riots. They\u2019ve altered some practices, and returned to others.",
+          "img_url": "https://static01.nyt.com/images/2022/01/06/multimedia/06db-newsletter-capitol2/06db-newsletter-capitol2-thumbWide.jpg?quality=75&auto=webp&disable=upscale",
+          "author": "Andrew Ross Sorkin,\u00a0Jason Karaian,\u00a0Sarah Kessler,\u00a0Stephen Gandel,\u00a0Michael J. de la Merced,\u00a0Lauren Hirsch and Ephrat Livni"
+        },
+        {
+          "title": "Cases Rise, Criticism Mounts, but Ships Keep Cruising",
+          "description": "One day after the C.D.C. advised against all travel on cruise ships, thousands of cruisers partied like it was 2019. But worries about onboard policies \u2014 and frustration over quarantines \u2014 is rising.",
+          "img_url": "https://static01.nyt.com/images/2022/01/06/travel/06cruises-omicron3/merlin_199800837_23551e8e-bc6e-4720-b671-7663c6535a8d-thumbWide.jpg?quality=75&auto=webp&disable=upscale",
+          "author": "Ceylan Yeginsu"
+        },
+        {
+          "title": "Starbucks union workers near Buffalo walk out over Covid concerns.",
+          "description": "The walkout, involving about half a dozen employees, is planned to last the rest of the week.",
+          "img_url": "https://static01.nyt.com/images/2022/01/05/business/05economy-briefing-starbucks-walkout/merlin_199015905_b0af5f67-6252-4d5c-9067-64647237e635-thumbWide.jpg?quality=75&auto=webp&disable=upscale",
+          "author": "Emma Goldberg"
+        },
+        {
+          "title": "Federal Labor Officials Claim New York Times Violated Workplace Law",
+          "description": "The National Labor Relations Board alleges that Times management wrongly prevented some employees from showing support for a union, a claim the paper denied.",
+          "img_url": "https://static01.nyt.com/images/2022/01/05/multimedia/05nyt/05nyt-thumbWide.jpg?quality=75&auto=webp&disable=upscale",
+          "author": "Katie Robertson"
+        },
+        {
+          "title": "F.B.I. Arrests Man Accused of Stealing Unpublished Book Manuscripts",
+          "description": "Filippo Bernardini, an Italian citizen who worked in publishing, was charged with wire fraud and identity theft for a scheme that prosecutors said affected hundreds of people over five or more years.",
+          "img_url": "https://static01.nyt.com/images/2022/01/05/books/05BOOKPHISHER/05BOOKPHISHER-thumbWide.jpg?quality=75&auto=webp&disable=upscale",
+          "author": "Elizabeth A. Harris"
+        },
+        {
+          "title": "Slate\u2019s Top Editor Leaves After a Three-Year Run",
+          "description": "Jared Hohlt, who made his reputation at New York magazine, led the publication\u2019s newsroom during a difficult period for digital media.",
+          "img_url": "https://static01.nyt.com/images/2021/01/05/business/05SLATE/05SLATE-01-thumbWide.jpg?quality=75&auto=webp&disable=upscale",
+          "author": "Marc Tracy"
+        },
+        {
+          "title": "Fed officials discussed raising rates sooner and faster in 2022.",
+          "description": "Minutes from the Federal Reserve\u2019s December meeting show that officials are contemplating when and how quickly to lift interest rates.",
+          "img_url": "https://static01.nyt.com/images/2022/01/05/business/05dc-fed/05dc-fed-thumbWide.jpg?quality=75&auto=webp&disable=upscale",
+          "author": "Jeanna Smialek"
+        },
+        {
+          "title": "The Oscars Want Crowd-Pleasers, but Where Are the Crowds?",
+          "description": "As contenders like \u201cWest Side Story\u201d and \u201cBelfast\u201d struggle for audiences, can a blockbuster like \u201cSpider-Man: No Way Home\u201d swing into the Oscar race?",
+          "img_url": "https://static01.nyt.com/images/2022/01/05/arts/05projectionist-boxoffice1/05projectionist-boxoffice1-thumbWide.jpg?quality=75&auto=webp&disable=upscale",
+          "author": "Kyle Buchanan"
+        },
+        {
+          "title": "Barbie and Balmain Want to Make Toys the Next Big Fashion Frontier",
+          "description": "The first high-fashion collaboration of the year is here, and it\u2019s surprisingly good.",
+          "img_url": "https://static01.nyt.com/images/2022/01/05/fashion/05BARBIE-BALMAIN-nft/05BARBIE-BALMAIN-nft-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale",
+          "author": "Vanessa Friedman"
+        }
+      ]
+    },
+    {
+      "category": "Health",
+      "content": [
+        {
+          "title": "Cases Rise, Criticism Mounts, but Ships Keep Cruising",
+          "description": "One day after the C.D.C. advised against all travel on cruise ships, thousands of cruisers partied like it was 2019. But worries about onboard policies \u2014 and frustration over quarantines \u2014 is rising.",
+          "img_url": "https://static01.nyt.com/images/2022/01/06/travel/06cruises-omicron3/merlin_199800837_23551e8e-bc6e-4720-b671-7663c6535a8d-thumbWide.jpg?quality=75&auto=webp&disable=upscale",
+          "author": "Ceylan Yeginsu"
+        },
+        {
+          "title": "Weekly Health Quiz: Stress, Omicron and Weight Training",
+          "description": "Test your knowledge of this week\u2019s health news.",
+          "img_url": "https://static01.nyt.com/images/2021/04/11/well/00healthquiz-art/11Well-HealthQuiz-icon-thumbWide-v3.jpg?quality=75&auto=webp&disable=upscale",
+          "author": "Toby Bilanow"
+        },
+        {
+          "title": "Hedgehogs Are a Source of Drug-Resistant Bacteria, Study Finds",
+          "description": "Scientists chart how a battle between fungus and bacteria living on the skin of hedgehogs led to the emergence of a strain of MRSA that can infect cows and humans.",
+          "img_url": "https://static01.nyt.com/images/2022/01/05/science/05sci-hedgehog/05sci-hedgehog-thumbWide.jpg?quality=75&auto=webp&disable=upscale",
+          "author": "Andrew Jacobs"
+        },
+        {
+          "title": "India\u2019s Rising Omicron Wave Brings a Grim Sense of D\u00e9j\u00e0 Vu",
+          "description": "Just months after Delta fueled hospital failures and funeral pyres, India\u2019s leaders again offer a mixed message: Their political rallies are packed even as they order curfews and work closures.",
+          "img_url": "https://static01.nyt.com/images/2022/01/05/world/05virus-india01/05virus-india01-thumbWide.jpg?quality=75&auto=webp&disable=upscale",
+          "author": "Mujib Mashal and Karan Deep Singh"
+        },
+        {
+          "title": "Biden Administration to Increase Supply of \u2018Game Changer\u2019 Pfizer Pill",
+          "description": "President Biden announced that his administration would double its order of Pfizer\u2019s scarce Covid-19 antiviral drug, which has been shown to reduce hospitalizations.",
+          "img_url": "https://static01.nyt.com/images/2022/01/04/us/politics/04dc-pfizerpill-1/merlin_199922322_25741c4c-eb18-4fbd-a64d-4dd2f464d23b-thumbWide.jpg?quality=75&auto=webp&disable=upscale",
+          "author": "Noah Weiland and Rebecca Robbins"
+        },
+        {
+          "title": "\u2018We May Need Even More\u2019: Biden Doubles Pfizer\u2019s Covid Pills Order",
+          "description": "President Biden announced that the United States government doubled its order for Pfizer\u2019s Covid pills, bringing the total order to 20 million treatment courses.",
+          "img_url": "https://static01.nyt.com/images/2021/12/22/science/04virus-briefing-pfizer-pill/merlin_199580694_2eb01a26-81dc-446b-9884-8a9ef89476af-thumbWide.jpg?quality=75&auto=webp&disable=upscale",
+          "author": "The Associated Press"
+        },
+        {
+          "title": "The Epic Rise and Fall of Elizabeth Holmes",
+          "description": "In Silicon Valley\u2019s world of make-believe, the philosophy of \u201cfake it until you make it\u201d finally gets its comeuppance.",
+          "img_url": "https://static01.nyt.com/images/2021/12/28/business/00holmes-siliconvalley1/00holmes-siliconvalley1-thumbWide.jpg?quality=75&auto=webp&disable=upscale",
+          "author": "David Streitfeld"
+        },
+        {
+          "title": "Elizabeth Holmes is found guilty of four counts of fraud.",
+          "description": "The case against the founder of the failed blood testing start-up Theranos came to symbolize the pitfalls of Silicon Valley\u2019s culture of hustle and hype.",
+          "img_url": "https://static01.nyt.com/images/2022/01/03/multimedia/03holmes-guilty-sub/03theranos-liveblog-promo-thumbWide.jpg?quality=75&auto=webp&disable=upscale",
+          "author": "Erin Griffith and Erin Woo"
+        },
+        {
+          "title": "With no way to identify Omicron and Delta patients, treatment decisions are vexing doctors.",
+          "description": "There is no approved test to determine which variant each patient has, and that makes treatment nearly impossible to tailor as supplies run low.",
+          "img_url": "https://static01.nyt.com/images/2021/12/30/science/03virus-briefing-variant1/00virus-doctors-mbs1-thumbWide.jpg?quality=75&auto=webp&disable=upscale",
+          "author": "Christina Jewett"
+        },
+        {
+          "title": "Exercising to Slim Down? Try Getting Bigger.",
+          "description": "It\u2019s high time for women to reclaim the real strength behind exercise.",
+          "img_url": "https://static01.nyt.com/images/2022/01/06/fashion/00well-freidman-excerpt/00well-freidman-excerpt-thumbWide.jpg?quality=75&auto=webp&disable=upscale",
+          "author": "Danielle Friedman"
+        }
+      ]
+    },
+    {
+      "category": "Technology",
+      "content": [
+        {
+          "title": "F.B.I. Arrests Man Accused of Stealing Unpublished Book Manuscripts",
+          "description": "Filippo Bernardini, an Italian citizen who worked in publishing, was charged with wire fraud and identity theft for a scheme that prosecutors said affected hundreds of people over five or more years.",
+          "img_url": "https://static01.nyt.com/images/2022/01/05/books/05BOOKPHISHER/05BOOKPHISHER-thumbWide.jpg?quality=75&auto=webp&disable=upscale",
+          "author": "Elizabeth A. Harris"
+        },
+        {
+          "title": "Dr. Ronald Weinstein, Telepathology Pioneer, Dies at 83",
+          "description": "Decades ago, he demonstrated that cancer could be diagnosed remotely. It was a pivotal step in the evolution of telemedicine.",
+          "img_url": "https://static01.nyt.com/images/2022/01/04/obituaries/04Weinstein/merlin_199913898_9ba27615-2268-4acd-af79-e253fb9b91d8-thumbWide.jpg?quality=75&auto=webp&disable=upscale",
+          "author": "Neil Genzlinger"
+        },
+        {
+          "title": "OpenSea valued at $13.3 billion in new round of venture funding.",
+          "description": "The blockchain start-up, one of the most talked about in Silicon Valley, said on Tuesday that had it raised $300 million in new venture capital.",
+          "img_url": "https://static01.nyt.com/images/2022/01/04/business/04economy-briefing-opensea-fundraising/04economy-briefing-opensea-fundraising-thumbWide.jpg?quality=75&auto=webp&disable=upscale",
+          "author": "Mike Isaac"
+        },
+        {
+          "title": "Election Falsehoods Surged on Podcasts Before Capitol Riots, Researchers Find",
+          "description": "A new study analyzed nearly 1,500 episodes, showing the extent to which podcasts pushed misinformation about voter fraud.",
+          "img_url": "https://static01.nyt.com/images/2022/01/04/business/04podcast-misinfo/04podcast-misinfo-thumbWide.jpg?quality=75&auto=webp&disable=upscale",
+          "author": "Stuart A. Thompson"
+        },
+        {
+          "title": "A mistrial was declared for three counts in the Elizabeth Holmes trial.",
+          "description": "The three hung counts were related to investments from three Theranos investors who testified that Ms. Holmes misled them.",
+          "img_url": "https://static01.nyt.com/images/2022/01/04/business/04economy-briefing-holmes-mistrial/merlin_199891197_1decc1ac-2c09-492d-8f18-1639cc7589e4-thumbWide.jpg?quality=75&auto=webp&disable=upscale",
+          "author": "Erin Woo"
+        },
+        {
+          "title": "5G cellular service will go forward as U.S. reaches deal with carriers.",
+          "description": "Transportation regulators had clashed with AT&T and Verizon, saying the new technology posed a security risk.",
+          "img_url": "https://static01.nyt.com/images/2022/01/04/business/04airlines-5g/04airlines-5g-thumbWide.jpg?quality=75&auto=webp&disable=upscale",
+          "author": "David McCabe"
+        },
+        {
+          "title": "What We Got Wrong About Tech",
+          "description": "Looking back at tech misjudgments so we can better look ahead.",
+          "img_url": "https://static01.nyt.com/images/2022/01/06/business/04ontech-techwrong/04ontech-techwrong-thumbWide.jpg?quality=75&auto=webp&disable=upscale",
+          "author": "Shira Ovide"
+        },
+        {
+          "title": "Tesla opens a dealership in Xinjiang, drawing accusations it\u2019s helping China \u2018cover up genocide.\u2019",
+          "description": "Senator Marco Rubio criticized the electric carmaker for opening the outlet in a region where China has been accused of targeting Muslims.",
+          "img_url": "https://static01.nyt.com/images/2022/01/04/multimedia/04econ-brf-tesla/04econ-brf-tesla-thumbWide.jpg?quality=75&auto=webp&disable=upscale",
+          "author": "Jack Ewing"
+        },
+        {
+          "title": "Toyota Topped G.M. in U.S. Car Sales in 2021, a First for a Foreign Automaker",
+          "description": "After struggling to produce cars because of a global computer chip shortage, automakers are trying to move quickly to making electric vehicles.",
+          "img_url": "https://static01.nyt.com/images/2022/01/05/business/04JPautos-print/merlin_185092344_a0fb80d3-b678-4872-88cf-6a49b5e7fa2c-thumbWide.jpg?quality=75&auto=webp&disable=upscale",
+          "author": "Neal E. Boudette"
+        },
+        {
+          "title": "Silicon Valley Can\u2019t Escape Elizabeth Holmes",
+          "description": "Ms. Holmes, the founder of Theranos, wasn\u2019t a creature of Silicon Valley, or so the refrain went. But her fraud trial showed otherwise.",
+          "img_url": "https://static01.nyt.com/images/2022/01/03/business/03holmes-valley-sub1/03holmes-valley-sub1-thumbWide.jpg?quality=75&auto=webp&disable=upscale",
+          "author": "Erin Griffith"
+        }
+      ]
+    },
+    {
+      "category": "Science",
+      "content": [
+        {
+          "title": "Mining of Lithium, Key to the Climate Fight, Faces New Scrutiny in Chile",
+          "description": "Politicians have called for a pause in new mining contracts for lithium, which is in high demand for electric car batteries but is at the heart of a debate in Chile over mines, water rights and inequality.",
+          "img_url": "https://static01.nyt.com/images/2022/01/06/climate/06CLI-CHILE1/06CLI-CHILE1-thumbWide.jpg?quality=75&auto=webp&disable=upscale",
+          "author": "John Bartlett"
+        },
+        {
+          "title": "Emerging Data Raise Questions About Antigen Tests and Nasal Swabs",
+          "description": "A new study adds to evidence that common rapid tests may fail to detect some Omicron cases in the first days of infection.",
+          "img_url": "https://static01.nyt.com/images/2022/01/04/science/00virus-omicron-testing4/merlin_199919271_45b04823-60d2-42a1-a5f3-49b2fc1aadfd-thumbWide.jpg?quality=75&auto=webp&disable=upscale",
+          "author": "Emily Anthes and Christina Jewett"
+        },
+        {
+          "title": "Health Risks of Smoke and Ozone Rise in the West as Wildfires Worsen",
+          "description": "Simultaneous high levels of the two pollutants, which harm human health, are occurring with increasing frequency, researchers say.",
+          "img_url": "https://static01.nyt.com/images/2022/01/05/climate/05cli-firepollution/05cli-firepollution-thumbWide.jpg?quality=75&auto=webp&disable=upscale",
+          "author": "Henry Fountain"
+        },
+        {
+          "title": "Dr. Ronald Weinstein, Telepathology Pioneer, Dies at 83",
+          "description": "Decades ago, he demonstrated that cancer could be diagnosed remotely. It was a pivotal step in the evolution of telemedicine.",
+          "img_url": "https://static01.nyt.com/images/2022/01/04/obituaries/04Weinstein/merlin_199913898_9ba27615-2268-4acd-af79-e253fb9b91d8-thumbWide.jpg?quality=75&auto=webp&disable=upscale",
+          "author": "Neil Genzlinger"
+        },
+        {
+          "title": "India\u2019s Rising Omicron Wave Brings a Grim Sense of D\u00e9j\u00e0 Vu",
+          "description": "Just months after Delta fueled hospital failures and funeral pyres, India\u2019s leaders again offer a mixed message: Their political rallies are packed even as they order curfews and work closures.",
+          "img_url": "https://static01.nyt.com/images/2022/01/05/world/05virus-india01/05virus-india01-thumbWide.jpg?quality=75&auto=webp&disable=upscale",
+          "author": "Mujib Mashal and Karan Deep Singh"
+        },
+        {
+          "title": "This Vast Wildfire Lab Is Helping Foresters Prepare for a Hotter Planet",
+          "description": "When the Bootleg fire tore through a nature reserve in Oregon this summer, the destruction varied in different areas. Researchers say forest management methods, including controlled burns, were a big factor.",
+          "img_url": "https://static01.nyt.com/images/2022/01/04/climate/00cli-firevid-poster/00cli-firevid-poster-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale",
+          "author": "Henry Fountain"
+        },
+        {
+          "title": "In Omicron Hot Spots, Hospitals Fill Up, but I.C.U.s May Not",
+          "description": "Covid hospitalizations are surging, but a smaller proportion of cases is severe compared with previous waves. With staff shortages, some hospitals are still in crisis.",
+          "img_url": "https://static01.nyt.com/images/2022/01/04/science/04virus-hospitals1/04virus-hospitals1-thumbWide.jpg?quality=75&auto=webp&disable=upscale",
+          "author": "Emily Anthes and Azeen Ghorayshi"
+        },
+        {
+          "title": "By weight, how much of you is carbon?",
+          "description": "Answer this question to learn a bit about what you\u2019re made of.",
+          "img_url": "https://static01.nyt.com/images/2022/01/03/science/03sci-newsletter-quiz/03sci-newsletter-quiz-thumbWide.jpg?quality=75&auto=webp&disable=upscale",
+          "author": "Kenneth Chang"
+        },
+        {
+          "title": "Considering Bone or Joint Surgery? You May Not Need It.",
+          "description": "For many common problems of the knee, hip, shoulder, spine and wrist, nonsurgical options may be just as good.",
+          "img_url": "https://static01.nyt.com/images/2021/12/20/well/00bakalar-surgery/00bakalar-surgery-thumbWide.jpg?quality=75&auto=webp&disable=upscale",
+          "author": "Nicholas Bakalar"
+        },
+        {
+          "title": "Did a Meteor Explode Over Pittsburgh?",
+          "description": "A meteor likely either \u201cexploded or vaporized\u201d over the city on Saturday, a meteorologist said, setting off a strong vibration that one resident likened to a \u201cshock wave.\u201d",
+          "img_url": "https://static01.nyt.com/images/2022/01/02/lens/02xp-meteor-photo/02xp-meteor-photo-thumbWide.jpg?quality=75&auto=webp&disable=upscale",
+          "author": "Azi Paybarah"
+        }
+      ]
+    },
+    {
+      "category": "Sports",
+      "content": [
+        {
+          "title": "Kyrie Irving returns to the court after refusing to be vaccinated.",
+          "description": "Irving declined to be vaccinated for Covid-19 before the season, making him ineligible to play in New York City because of a local vaccine mandate at sports arenas that went into effect in September.",
+          "img_url": "https://static01.nyt.com/images/2022/01/05/multimedia/05-virusbrief-kyrie/05-virusbrief-kyrie-thumbWide.jpg?quality=75&auto=webp&disable=upscale",
+          "author": "Sopan Deb"
+        },
+        {
+          "title": "Australia Denies Entry to Novak Djokovic Over Vaccine Exemption",
+          "description": "Novak Djokovic, the world\u2019s No. 1-ranked men\u2019s tennis player, was told to leave Australia after a 12-hour standoff with government officials over questions about the evidence supporting a medical exemption from a Covid-19 vaccine.",
+          "img_url": "https://static01.nyt.com/images/2022/01/05/sports/05djokovic-australia-HFO/05djokovic-australia-HFO-thumbWide.jpg?quality=75&auto=webp&disable=upscale",
+          "author": "Reuters"
+        },
+        {
+          "title": "Skepticism and anger greet Novak Djokovic\u2019s vaccine exemption.",
+          "description": "Some Australians reacted with fury at the announcement from the world\u2019s No. 1 male tennis player, the sport\u2019s most prominent vaccination skeptic.",
+          "img_url": "https://static01.nyt.com/images/2022/01/05/world/05virus-briefing-djokovic-reaction/05virus-briefing-djokovic-reaction-thumbWide.jpg?quality=75&auto=webp&disable=upscale",
+          "author": "Matthew Futterman and Yan Zhuang"
+        },
+        {
+          "title": "Skepticism Greets Novak Djokovic\u2019s Vaccine Exemption",
+          "description": "The world No. 1 received an exemption to a rule that players be vaccinated to play in the Australian Open. Government officials said they had the power to overturn it.",
+          "img_url": "https://static01.nyt.com/images/2022/01/05/multimedia/05te-djokovic1/05te-djokovic1-thumbWide.jpg?quality=75&auto=webp&disable=upscale",
+          "author": "Matthew Futterman"
+        },
+        {
+          "title": "2022 Beijing Winter Olympics: Answers to Some Big Questions",
+          "description": "How will the Olympics deal with the coronavirus? What happens if athletes protest China? Will there be boycotts? Here\u2019s what we know.",
+          "img_url": "https://static01.nyt.com/images/2022/01/04/sports/04oly-explainer1/04oly-explainer1-thumbWide.jpg?quality=75&auto=webp&disable=upscale",
+          "author": "Andrew Keh"
+        },
+        {
+          "title": "Kathy Flores, Pathbreaking Women\u2019s Rugby Coach, Dies at 66",
+          "description": "She was a gifted player and exacting coach who pushed for recognition of women in a historically male-dominated sport.",
+          "img_url": "https://static01.nyt.com/images/2022/01/05/obituaries/03Flores1-print1/03Flores1-thumbWide.jpg?quality=75&auto=webp&disable=upscale",
+          "author": "Annabelle Williams"
+        },
+        {
+          "title": "N.F.L.\u2019s Week 18 Will Sort Playoff Berths",
+          "description": "In the N.F.C., Green Bay has clinched the bye, but a divisional race and a wild-card spot are still up for grabs. In the A.F.C., things are messier.",
+          "img_url": "https://static01.nyt.com/images/2022/01/04/sports/04nfl-playoffpic-49ers/04nfl-playoffpic-49ers-thumbWide.jpg?quality=75&auto=webp&disable=upscale",
+          "author": "Victor Mather"
+        },
+        {
+          "title": "Djokovic is granted a medical exemption to play in the Australian Open.",
+          "description": "The top-ranked player in men\u2019s tennis revealed his plans in a post on his Instagram account.",
+          "img_url": "https://static01.nyt.com/images/2022/01/04/world/04virus-briefing-djokovic01/04virus-briefing-djokovic01-thumbWide.jpg?quality=75&auto=webp&disable=upscale",
+          "author": "Andrew Das"
+        },
+        {
+          "title": "The Field Is Crowded, but Mostly Behind South Carolina",
+          "description": "Increasing parity in women\u2019s college basketball, and a slew of coronavirus interruptions, makes the regular season less predictable. But the Gamecocks still stand out.",
+          "img_url": "https://static01.nyt.com/images/2022/01/03/sports/03wcbb01/merlin_199561743_d2cd131f-f31b-4cdc-864d-f916e74fde6d-thumbWide.jpg?quality=75&auto=webp&disable=upscale",
+          "author": "Natalie Weiner"
+        },
+        {
+          "title": "\u2018Fuel to Her Fire\u2019: A Rising Basketball Star Thrives When You Doubt Her",
+          "description": "Diamond Johnson is making a name for herself at North Carolina State after being snubbed for a major high school honor.",
+          "img_url": "https://static01.nyt.com/images/2022/01/03/sports/03ncaa-diamond/03ncaa-diamond-thumbWide.jpg?quality=75&auto=webp&disable=upscale",
+          "author": "Jonathan Abrams"
+        }
+      ]
+    },
+    {
+      "category": "U.S. Politics",
+      "content": [
+        {
+          "title": "Watch Live: Senators Speak on Anniversary of Capitol Riot",
+          "description": "Senators deliver floor speeches one year after a deadly attack on the U.S. Capitol by supporters of Donald J. Trump who tried to disrupt the formal certification of President Biden\u2019s electoral victory.",
+          "img_url": "https://static01.nyt.com/images/2022/01/06/us/politics/06vid-Senate-Speeches-Live-1/merlin_199988217_f2f66d77-2686-4bca-8345-ad26631cd586-thumbWide.jpg?quality=75&auto=webp&disable=upscale",
+          "author": "The Associated Press"
+        },
+        {
+          "title": "Here is a schedule of events commemorating the Jan. 6 attack.",
+          "description": "Speeches by President Biden and Vice President Kamala Harris are part of the events to mark the anniversary of the attack on the Capitol.",
+          "img_url": "https://static01.nyt.com/images/2022/01/06/multimedia/06blog-sked/06blog-sked-thumbWide.jpg?quality=75&auto=webp&disable=upscale",
+          "author": "The New York Times"
+        },
+        {
+          "title": "Hochul\u2019s Speech Is a Road Map to the Campaign That Lies Ahead",
+          "description": "Gov. Kathy Hochul sought to exude decisiveness in crisis, previewing her efforts to run as the steady-hand candidate as she seeks her first full term.",
+          "img_url": "https://static01.nyt.com/images/2022/01/06/nyregion/06hochul-politics/merlin_199959129_479a99ab-d05d-490c-9721-ed98e3f05974-thumbWide.jpg?quality=75&auto=webp&disable=upscale",
+          "author": "Katie Glueck"
+        },
+        {
+          "title": "A Fed Official\u2019s 2020 Trade Drew Outcry. It Went Further Than First Disclosed.",
+          "description": "Corrected disclosures show that Vice Chair Richard H. Clarida sold a stock fund, then swiftly repurchased it before a big Fed announcement.",
+          "img_url": "https://static01.nyt.com/images/2022/01/05/business/00dc-fedtrade/00dc-fedtrade-thumbWide.jpg?quality=75&auto=webp&disable=upscale",
+          "author": "Jeanna Smialek"
+        },
+        {
+          "title": "One Year Later, Congress Weighs How to Memorialize Jan. 6 at the Capitol",
+          "description": "In a building that is both a legislative body and a living museum, lawmakers are grappling with how to commemorate an attack whose victims cannot agree on the basic facts of the day.",
+          "img_url": "https://static01.nyt.com/images/2022/01/06/us/politics/06dc-memorial-1/merlin_182076885_8817c97a-ed41-427b-b4e0-90832a6c7ec6-thumbWide.jpg?quality=75&auto=webp&disable=upscale",
+          "author": "Emily Cochrane"
+        },
+        {
+          "title": "A Year Later, Jan. 6 Becomes Just Another Wedge in a Divided Nation",
+          "description": "The nearly universal outrage after the assault on the Capitol has reverted to separate blue and red realities, and former President Donald J. Trump has remained the dominant force in his party.",
+          "img_url": "https://static01.nyt.com/images/2022/01/06/us/politics/06dc-assess/merlin_199965939_42d55dc7-8497-439d-8f6c-5dcd4c21038b-thumbWide.jpg?quality=75&auto=webp&disable=upscale",
+          "author": "Peter Baker"
+        },
+        {
+          "title": "Federal Prisons Director Is Resigning After Rocky Tenure",
+          "description": "Michael Carvajal took over the Bureau of Prisons in February 2020, just as the coronavirus began to sweep through the nation\u2019s prisons.",
+          "img_url": "https://static01.nyt.com/images/2022/01/05/multimedia/05dc-prisons-photo/05dc-prisons-photo-thumbWide.jpg?quality=75&auto=webp&disable=upscale",
+          "author": "Katie Benner"
+        },
+        {
+          "title": "How Many Americans Support Political Violence?",
+          "description": "Probably a lot fewer than you\u2019ve been led to believe, but more than enough to make you nervous.",
+          "img_url": "https://static01.nyt.com/images/2022/01/05/us/politics/05onpolitics-pm-newsletter-4/merlin_182053389_c66afb97-5197-41fe-bcf1-ac13f5cf2d0d-thumbWide.jpg?quality=75&auto=webp&disable=upscale",
+          "author": "Blake Hounshell and Leah Askarinam"
+        },
+        {
+          "title": "For C.D.C.\u2019s Walensky, a Steep Learning Curve on Messaging",
+          "description": "Dr. Rochelle Walensky, the director of the Centers for Disease Control and Prevention, has stumbled in explaining her policy decisions.",
+          "img_url": "https://static01.nyt.com/images/2022/01/05/us/politics/05DC-tests-1/05DC-tests-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale",
+          "author": "Sharon LaFraniere,\u00a0Sheryl Gay Stolberg and Noah Weiland"
+        }
+      ]
+    }
+  ]
+}
