@@ -22,15 +22,15 @@ export default function Home({posts}) {
         <title>{content?.title}</title>
         <link rel="icon" href="/favicon.ico" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin />
+        <link rel="preconnect" href="https://fonts.gstatic.com"/>
         <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet"></link>
       </Head>
       <header className="w-full bg-white border-b py-4">
         <nav className="max-w-5xl mx-auto flex sm:justify-between items-center">
-          <h1 className="sm:hidden text-gray-900 font-bold uppercase text-lg tracking-wider text-center w-full">Project M</h1>
+          <h1 className="sm:hidden text-gray-900 font-bold uppercase text-lg tracking-wider text-center w-full">Project M {active}</h1>
           <ul className="hidden sm:flex flex-row space-x-3">
             {content?.nav_items && content?.nav_items.map((item, index) => (
-              <li key={index} onClick={() => setActive(index)} className={`${active === index ? 'border-opacity-100' : ''} text-base font-medium tracking-wider border-b-2 border-blue-600 border-opacity-0 hover:border-opacity-100 hover:text-blue-600 cursor-pointer uppercase`}>{item?.category}</li>
+              <li key={index} onClick={() => setActive(index)} className={`text-base font-medium tracking-wider border-b-2 border-blue-600 border-opacity-0 hover:border-opacity-100 hover:text-blue-600 cursor-pointer uppercase ${active == index ?'border-opacity-100' :''}`}>{item?.category}</li>
             ))}
           </ul>
           <button className="bg-gray-900 hidden sm:block rounded-full px-6 py-2 text-white hover:bg-gray-800">subscribe</button>
