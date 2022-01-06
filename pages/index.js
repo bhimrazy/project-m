@@ -7,13 +7,6 @@ export default function Home({posts}) {
   const content = {
     'title': "Project M",
     'nav_items': posts?.data
-    // [
-    //   { 'title': 'Home', 'content': [{ 'title': '', 'description': '', 'thumbnail_url': '' }] },
-    //   { 'title': 'News', 'content': [{ 'title': '', 'description': '', 'thumbnail_url': '' }] },
-    //   { 'title': 'Sports', 'content': [{ 'title': '', 'description': '', 'thumbnail_url': '' }] },
-    //   { 'title': 'Tech', 'content': [{ 'title': '', 'description': '', 'thumbnail_url': '' }] },
-    //   { 'title': 'Science', 'content': [{ 'title': '', 'description': '', 'thumbnail_url': '' }] },
-    // ]
 
   }
   return (
@@ -103,6 +96,7 @@ export default function Home({posts}) {
     </div>
   )
 }
+
 
 export async function getServerSideProps() {
   const res = await fetch('https://3000-tan-panther-z3e1aw7u.ws-us25.gitpod.io/api')
