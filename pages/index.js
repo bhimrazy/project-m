@@ -99,9 +99,9 @@ export default function Home({posts}) {
 
 
 export async function getServerSideProps() {
-  const res = await fetch('https://3000-tan-panther-z3e1aw7u.ws-us25.gitpod.io/api')
+  const res = await fetch('https://project-m-eta.vercel.app/api')
   const posts = await res.json()
-
+  
   // Pass post data to the page via props
   return { props: { posts } }
 }
