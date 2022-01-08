@@ -58,7 +58,7 @@ export default function Index({ post }) {
 export async function getServerSideProps({ params }) {
     const category = params.category;
     const slug = params.slug;
-    const res = await fetch('https://3000-tan-panther-z3e1aw7u.ws-us25.gitpod.io/api')
+    const res = await fetch('https://project-m-eta.vercel.app/api')
     const posts = await res.json()
     const post = posts?.data?.find(cat => cat?.category.toLowerCase() === category)?.content?.find(post => post?.slug === slug)
     return { props: { post } }
